@@ -5,6 +5,11 @@ https://dev-meet-my-old-friends.pantheonsite.io/. Steps see below.
 ### Sign up a free account at Pantheon 
 https://pantheon.io/register They offer you: 2 free sandbox sites; Git-Based Dev, Test, And Live Environments; Free HTTPS (SSL) Certificates; Integrated Content Delivery Network (CDN)
 
-### Create a Sandbox site on Pantheon 
+### Create a Sandbox site on Pantheon and deploy Drupal 9
 https://pantheon.io/docs/guides/quickstart/create-new-site/ When done, you should see your site like this: 
-<img src="./images/creat_a_new_site.png" alt="create a sandbox site on Pantheon" width="750" />
+<img src="./images/creat_a_new_site.png" alt="create a sandbox site on Pantheon" width="750" /> 
+</br>
+<img src="./images/install_drupal_9.png" alt="create a sandbox site on Pantheon" width="750" /> 
+
+
+
