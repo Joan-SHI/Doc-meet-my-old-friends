@@ -7,4 +7,4 @@ https://pantheon.io/register They offer you: 2 free sandbox sites; Git-Based Dev
 
 ### Create a Sandbox site on Pantheon 
 https://pantheon.io/docs/guides/quickstart/create-new-site/ When done, you should see your site like this: 
-<img src="./images/create_a_new_site.png" alt="create a sandbox site on Pantheon" width="750" />
+<img src="./images/creat_a_new_site.png" alt="create a sandbox site on Pantheon" width="750" />
