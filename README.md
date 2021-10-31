@@ -20,4 +20,14 @@ When done, the repo structure will look like this
 
 <img src="./images/git_clone_repo_to_your_local.png" alt="git clone repo to your local machine" width="750" />
 
+### 6. Say goodbye to one of your old friends - Acquia Dev Desktop 
+
+Acquia has stopped support for Dev Desktop on June 30, 2021. Completely uninstall it in your local machine. 
+https://www.revouninstaller.com/preview-log/?pid=2469&pname=Acquia+Dev+Desktop
+
+### 7. Install Composer 2 globally 
+https://getcomposer.org/download/
+
+
+
 
