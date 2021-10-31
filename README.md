@@ -28,6 +28,14 @@ https://www.revouninstaller.com/preview-log/?pid=2469&pname=Acquia+Dev+Desktop
 ### 7. Install Composer 2 globally 
 https://getcomposer.org/download/
 
+### 8. Install Drupal theme which suits your need
+I pick dxpr at this moment as I expect it is scalable https://www.drupal.org/project/dxpr_theme
+
+Run the following command line in your terminal:
+```
+composer require drupal/dxpr_theme
+```
+
 
 
 
