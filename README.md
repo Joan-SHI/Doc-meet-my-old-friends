@@ -29,13 +29,15 @@ https://www.revouninstaller.com/preview-log/?pid=2469&pname=Acquia+Dev+Desktop
 https://getcomposer.org/download/
 
 ### 8. Install Drupal theme which suits your need
-I pick dxpr at this moment as I expect it is scalable https://www.drupal.org/project/dxpr_theme
+I pick dxpr at this moment as it is free and I expect it is scalable https://www.drupal.org/project/dxpr_theme
 
 Run the following command line in your terminal:
 ```
 composer require drupal/dxpr_theme
 ```
 
+### 9. Set the theme you just installed as the default one
 
+<img src="./images/dxpr_theme.png" alt="set dxpr the default theme" width="750" />
 
 
