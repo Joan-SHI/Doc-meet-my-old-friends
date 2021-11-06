@@ -57,5 +57,5 @@ Remember to visit https://dev-meet-my-old-friends.pantheonsite.io/admin/modules 
 
 ### 11. Contrib modules list I have installed for this project
 
-* Bullet list https://www.drupal.org/project/admin_toolbar
-* Bullet list https://www.drupal.org/project/paragraphs
+* https://www.drupal.org/project/admin_toolbar
+* https://www.drupal.org/project/paragraphs
