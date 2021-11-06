@@ -40,7 +40,7 @@ composer require drupal/dxpr_theme
 
 <img src="./images/dxpr_theme.png" alt="set dxpr the default theme" width="750" />
 
-### 10. Install some common used modules to have better admin experience
+### 10. Install some common used contrib modules to have better admin experience
 
 E.g. admin_toolbar: https://www.drupal.org/project/admin_toolbar. Run in the terminal with this pattern
 ```
@@ -54,3 +54,8 @@ composer require drupal/admin_toolbar
 Remember to visit https://dev-meet-my-old-friends.pantheonsite.io/admin/modules to install it once you git commit to the remote
 
 <img src="./images/install_module.png" alt="install module at dev site */admin/modules" width="750" />
+
+### 11. Contrib modules list I have installed for this project
+
+* Bullet list https://www.drupal.org/project/admin_toolbar
+* Bullet list https://www.drupal.org/project/paragraphs
